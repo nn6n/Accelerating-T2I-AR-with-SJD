@@ -1,13 +1,13 @@
-torch==2.3.0
+torch==2.6.0
 torchvision==0.18.0
 torchaudio==2.3.0
 pandas
 tensorboard
 fairscale
 sentencepiece
-gradio==4.19.0
+gradio==5.13.0
 packaging
-transformers>=4.43.3
+transformers>=4.50.0
 pyyaml
 pathlib
 Ninja
@@ -18,3 +18,4 @@ regex
 h5py
 accelerate
 pre-commit
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
