@@ -1,11 +1,11 @@
-torch==2.3.0
+torch==2.7.1
 torchvision==0.18.0
 torchaudio==2.3.0
 pandas
 tensorboard
 fairscale
 sentencepiece
-gradio==4.19.0
+gradio==5.31.0
 packaging
 transformers>=4.43.3
 pyyaml
