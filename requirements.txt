@@ -1,4 +1,4 @@
-torch==2.3.0
+torch==2.8.0
 torchvision==0.18.0
 torchaudio==2.3.0
 pandas
@@ -7,7 +7,7 @@ fairscale
 sentencepiece
 gradio==4.19.0
 packaging
-transformers>=4.43.3
+transformers>=4.53.0
 pyyaml
 pathlib
 Ninja
